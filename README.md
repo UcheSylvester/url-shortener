@@ -1,2 +1,2 @@
 # url-shortener
-A simple Url Shortener created with HTML and JavaScript
+A simple Url Shortener created with HTML and JavaScript!
